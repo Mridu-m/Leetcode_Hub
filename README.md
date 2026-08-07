@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0219-contains-duplicate-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
