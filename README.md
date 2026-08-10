@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
