@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0682-baseball-game) |
 | [1089-duplicate-zeros](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0071-simplify-path) |
+| [0682-baseball-game](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Mridu-m/Leetcode_Hub/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Mridu-m/Leetcode_Hub/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
