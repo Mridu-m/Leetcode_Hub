@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0014-longest-common-prefix) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1544-make-the-string-great) |
 ## Trie
 |  |
 | ------- |
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
