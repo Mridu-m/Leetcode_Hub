@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0739-daily-temperatures) |
 | [1089-duplicate-zeros](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Mridu-m/Leetcode_Hub/tree/master/2390-removing-stars-from-a-string) |
@@ -96,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
