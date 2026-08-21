@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0739-daily-temperatures) |
 | [1089-duplicate-zeros](https://github.com/Mridu-m/Leetcode_Hub/tree/master/1089-duplicate-zeros) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mridu-m/Leetcode_Hub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Mridu-m/Leetcode_Hub/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Mridu-m/Leetcode_Hub/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mridu-m/Leetcode_Hub/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
